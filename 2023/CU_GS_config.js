@@ -17,7 +17,7 @@ var config_data = `
       "code": "e",
       "gsCol": "event",
       "type": "event",
-      "defaultValue": "2023MAWNE",
+      "defaultValue": "2023MAWOR",
       "required": "true",
       "disabled": "true"
     },
