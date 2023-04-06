@@ -14,7 +14,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "NECMP1",
+      "defaultValue": "2023NECMP1",
       "required": "true",
       "disabled": "true"
     },
