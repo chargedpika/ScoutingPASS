@@ -17,7 +17,7 @@ var config_data = `
       "code": "e",
       "gsCol": "event",
       "type": "event",
-      "defaultValue": "2023NECMP1",
+      "defaultValue": "2023DCMP",
       "required": "true",
       "disabled": "true"
     },
